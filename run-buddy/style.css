@@ -90,6 +90,23 @@ div h3 {
 .hero-form p {
     margin: 5px 0 15px 0;
 }
+.Habits{
+    width: 500px;
+    position: relative;
+    top: 0px;
+    left: 150px;
+
+}
+.Habits h1{
+    color: #fce138;
+    font-size: 51px;
+    text-align: right;
+    font-style: italic;
+}
+.Habits p {
+    color:white;
+    text-align: right;
+}
 .form-input {
     font-size: 16px;
     border: 1px solid #024e76;
